@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "77873373816",
+    "firebase_url": "https://queek-7d353-default-rtdb.firebaseio.com",
+    "project_id": "queek-7d353",
+    "storage_bucket": "queek-7d353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77873373816:android:e04e905c125939be19038d",
+        "android_client_info": {
+          "package_name": "com.queek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77873373816-rifh3dfiorbs25al9mk8m0qn64rtm0cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.queek",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "77873373816-nm1blc6vvh42duv98re009nu4bumsu41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Ok7W9w7QIUrtypbrJEhprmt8fHvIf98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77873373816-nm1blc6vvh42duv98re009nu4bumsu41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "77873373816-u2olqs707mm5bep7lr52pf5bpf8v34ud.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.queek"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
